@@ -1,0 +1,7 @@
+# macOS system files
+.DS_Store
+*/.DS_Store
+**/.DS_Store
+
+# Ignore inside target/ (build outputs)
+# target/
